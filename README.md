@@ -8,4 +8,4 @@
 
 2. These 3 servers are clustered together as load balancer: http://backend_servers/
 
-3. while any request coming to www.example.com
+3. When any request coming to www.example.com it gets routed to the load balancer above.
